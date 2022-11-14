@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.Form1.resources
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.AssemblyInfo.cs
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\calculator_moustafaaaa\bin\Debug\net6.0-windows\calculator_moustafaaaa.exe
+C:\Users\Student\Desktop\calculator_moustafaaaa\bin\Debug\net6.0-windows\calculator_moustafaaaa.deps.json
+C:\Users\Student\Desktop\calculator_moustafaaaa\bin\Debug\net6.0-windows\calculator_moustafaaaa.runtimeconfig.json
+C:\Users\Student\Desktop\calculator_moustafaaaa\bin\Debug\net6.0-windows\calculator_moustafaaaa.dll
+C:\Users\Student\Desktop\calculator_moustafaaaa\bin\Debug\net6.0-windows\calculator_moustafaaaa.pdb
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.dll
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\refint\calculator_moustafaaaa.dll
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.pdb
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\calculator_moustafaaaa.genruntimeconfig.cache
+C:\Users\Student\Desktop\calculator_moustafaaaa\obj\Debug\net6.0-windows\ref\calculator_moustafaaaa.dll
